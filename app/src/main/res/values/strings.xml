@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fatorial</string>
+    <string name="numero">Número</string>
+    <string name="primo">É Primo?</string>
+    <string name="novaTela">Nova Tela</string>
+    <string name="title_activity_nova_tela">NovaTela</string>
+    <string name="Calcular">Calcular</string>
+    <string name="calcular">Calcular</string>
+    <string name="fatorial">Fatorial =</string>
+</resources>
